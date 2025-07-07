@@ -1,6 +1,5 @@
 # 🚀 Terraform Mini Project: Deploy Nginx on AWS EC2
 
-Welcome to the DevOps Internship mini-project! In this project, you'll provision a fully automated Nginx web server on an AWS EC2 instance using **Terraform**.
 
 ---
 
@@ -45,7 +44,7 @@ terraform-aws-nginx/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/technocolabs100/terraform-aws-nginx.git
+git clone ttps://github.com/IliasBatas1/terraform-aws-nginx.git
 cd terraform-aws-nginx
 ````
 
@@ -144,9 +143,3 @@ sudo systemctl enable nginx
 
 ---
 
-## 📬 Contact & Support
-
-If you get stuck, reach out to your project mentor or raise an issue in this repository.
-
-Happy Terraforming! 🚀
-– Technocolabs DevOps Team
