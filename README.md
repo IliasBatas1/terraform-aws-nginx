@@ -28,7 +28,6 @@
 
 terraform-aws-nginx/
 ├── main.tf              # Main Terraform config
-├── provider.tf          # AWS provider configuration
 ├── variables.tf         # Input variables
 ├── outputs.tf           # Outputs public IP
 ├── userdata.sh          # Installs and starts Nginx
